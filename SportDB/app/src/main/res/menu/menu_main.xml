@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/about_page"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="About"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_list"
+        android:title="@string/list"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_grid"
+        android:title="@string/grid"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_cardview"
+        android:title="@string/with_cardview"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DB Sports</string>
+    <string name="sport_name">Nama Tim Sport</string>
+    <string name="detail">Details</string>
+    <string name="desc">Desc</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="nama">ZAENAL ALFIAN</string>
+    <string name="email">zaenal.alfian@mhs.rosma.ac.id</string>
+    <string name="aboutme">Saya adalah seorang Developer Mobile Android. Programming adalah passion saya, dan saya tertarik mendalami teknologi terbaru di bidang web dan mobile. Write Less Code More.</string>
+    <string name="link">Link: <a href="https://www.thesportsdb.com/">The SportDB</a></string>
+    <string name="judul">Nama</string>
+    <string name="like">200 likes</string>
+    <string name="info">Information</string>
+</resources>
